@@ -1,0 +1,23 @@
+{
+  "name": "bastiboo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.7.2",
+    "discord.js": "^13.3.1",
+    "ffmpeg-static": "^4.4.0",
+    "libsodium-wrappers": "^0.7.9",
+    "tweetnacl": "^1.0.3"
+  },
+  "devDependencies": {
+    "ytdl-core": "^4.9.1",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}
